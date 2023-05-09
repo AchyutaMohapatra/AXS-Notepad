@@ -1,6 +1,10 @@
 # AXS Notepad
 A AXS Notepad is an agile project management tool designed to help visualize work, limit work-in-progress, and maximize efficiency (or flow). AXS Notepad use cards, columns, and continuous improvement to help technology and service teams commit to the right amount of work, and get it done!
 
+*screenshort
+![image](https://github.com/AchyutaMohapatra/AXS-Notepad/assets/79587101/d76f69a4-6067-436b-bc54-b88fae6cb735)
+
+
 ## How to use this board
 Story can be created by clicking on Add (+) which will sit in Story column<br />
 Board can be cleared by clicking on Reset<br />
